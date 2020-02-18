@@ -17,8 +17,16 @@ module.exports = {
   blue: [34, 39],
   magenta: [35, 39],
   cyan: [36, 39],
-  white: [37, 39],
+  white: [97, 39],
   gray: [90, 39],
+
+  lightGray: [37, 39],
+  lightRed: [91, 39],
+  lightGreen: [92, 39],
+  lightYellow: [93, 39],
+  lightBlue: [94, 39],
+  lightMagenta: [95, 39],
+  lightCyan: [96, 39],
 
   // background colors
   bgBlack: [40, 49],
@@ -28,5 +36,14 @@ module.exports = {
   bgBlue: [44, 49],
   bgMagenta: [45, 49],
   bgCyan: [46, 49],
-  bgWhite: [47, 49],
+  bgWhite: [107, 49],
+  bgGray: [100, 49],
+
+  bgLightGray: [47, 49],
+  bgLightRed: [101, 49],
+  bgLightGreen: [102, 49],
+  bgLightYellow: [103, 49],
+  bgLightBlue: [104, 49],
+  bgLightMagenta: [105, 49],
+  bgLightCyan: [106, 49],
 }
